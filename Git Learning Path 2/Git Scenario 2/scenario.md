@@ -1,4 +1,4 @@
-title: Git Scenario 1
+title: Git Scenario 2
 description: understanding Golang test scenario 1
 time: 25 minutes
 steps:
