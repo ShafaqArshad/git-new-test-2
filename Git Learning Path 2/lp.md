@@ -5,7 +5,5 @@ description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrty
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 1
-scenarios:
-  - Git Scenario 2
-  - Git Scenario 3
+scenarioCount: 0
+scenarios: []
