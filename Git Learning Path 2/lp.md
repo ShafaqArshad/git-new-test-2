@@ -4,7 +4,7 @@ title: Git Learning Path 2
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrtyrytrf tty
 isPremium: true
 isNew: true
-isAvailable: truee
+isAvailable: true
 scenarioCount: 0
 scenarios: 
   - Git Scenario 3
