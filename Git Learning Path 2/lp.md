@@ -2,7 +2,7 @@ categories:
   - istio
 title: Git Learning Path 2 rr5r
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty rrdytrtyrytrf tty ytjtuytuythjghjgyjgtyugjhgjhjg fuuuytyujh
-isPremium: truee
+isPremium: false
 isNew: true
 isAvailable: false
 scenarioCount: 1
