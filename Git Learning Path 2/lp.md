@@ -1,10 +1,11 @@
 categories:
   - istio
-title: Git Learning Path 2
+title: Git Learning Path 2 Rsy
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty
 isPremium: true
 isNew: true
 isAvailable: true
+scenarioCount: 1
 scenarios: 
   - Git Scenario 3
   - Git Scenario 2
