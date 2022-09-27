@@ -5,6 +5,6 @@ steps:
   - step1.md
   - step2.md
 isNew: true
-isPremium: false
+isPremium: true
 isAvailable: true
-level: expert
+level: experting
