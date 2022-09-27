@@ -4,7 +4,7 @@ time: 25 minutes
 steps:
   - step1.md
   - step2.md
-isNew: true
+isNew: false
 isPremium: true
-isAvailable: falsee
+isAvailable: true
 level: expert
