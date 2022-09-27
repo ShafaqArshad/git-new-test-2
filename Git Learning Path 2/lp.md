@@ -8,3 +8,4 @@ isAvailable: true
 scenarioCount: 1
 scenarios: 
   - Git Scenario 3
+  - Git Scenario 4
