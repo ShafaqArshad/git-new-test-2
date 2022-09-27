@@ -1,10 +1,10 @@
 title: Git Scenario 2
 description: understanding Golang test scenario 1
-time: 25 minutes
+time: 25 minutesss
 steps:
   - step1.md
   - step2.md
-isNew: true
+isNew: false
 isPremium: true
-isAvailable: true
-level: experting
+isAvailable: truee
+level: expert
