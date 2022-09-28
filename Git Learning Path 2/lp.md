@@ -1,6 +1,6 @@
 categories:
   - istio
-title: Git Learning Path 2
+title: Git Learning Path 2 Rsy
 description: guykgyutyuguhguhghjgyugvuygyugvyugyuhggvfytgfytrftyfytrfty
 isPremium: true
 isNew: true
